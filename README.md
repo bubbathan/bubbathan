@@ -5,7 +5,7 @@ Here is a brief introduction to my repositories.
 
 This is a basic Android app that takes words input by the user and creates a Mad Lib story using those words.
 ***
-### cs2420-hill-jonathan-assn1
+### [cs2420-hill-jonathan-assn1](https://github.com/bubbathan/cs2420-hill-jonathan-assn1)
 ##### Word Trees
 This program creates a tree of words moving from a start word to an end word. It follows paths until it finds the shortest path from start to end and outputs the path, the number of moves it took to get there, and the number of times a list entered a queue to be looked at.
 ***
