@@ -1,6 +1,10 @@
 Here is a brief introduction to my repositories.
 
 ***
+### [Disneyland-Scavenger-Hunt-App](https://github.com/bubbathan/Disneyland-Scavenger-Hunt-App)
+
+This app is a scavenger hunt meant to be played at Disneyland. It has shows different lists of items to find depending on the "land" you are in at the time. It tracks the number of times an item is found and stores it in a database.
+***
 ### [cs2410-hill-jonathan-madlibs](https://github.com/bubbathan/cs2410-hill-jonathan-madlibs)
 
 This is a basic Android app that takes words input by the user and creates a Mad Lib story using those words.
