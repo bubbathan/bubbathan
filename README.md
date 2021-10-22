@@ -5,6 +5,10 @@ Here is a brief introduction to my repositories.
 
 This app is a scavenger hunt meant to be played at Disneyland. It has shows different lists of items to find depending on the "land" you are in at the time. It tracks the number of times an item is found and stores it in a database.
 ***
+### [Monster-Of-The-Week](https://github.com/bubbathan/Monster-Of-The-Week)
+
+This is a character creation and management app for a tabletop RPG called Monster of the Week. 
+***
 ### [cs2410-hill-jonathan-madlibs](https://github.com/bubbathan/cs2410-hill-jonathan-madlibs)
 
 This is a basic Android app that takes words input by the user and creates a Mad Lib story using those words.
